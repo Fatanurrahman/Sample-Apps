@@ -1,7 +1,7 @@
 <?php include("../Template/header.php");
 include ("../Template/Navbar Admin.php"); ?>
 <body background="../User/Bg_img.jpg">
-<div class="row " style="margin-top:100px">
+<div class="row " style="margin:100px 0px">
     <div class="col-3">
     </div>
     <div class="col-6">
