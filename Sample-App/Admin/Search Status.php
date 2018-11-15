@@ -18,6 +18,7 @@ include ("../Template/Navbar Admin.php"); ?>
                         <option>Belum Bayar</option>
                     </select>
                 </div>
+                <a href="Index.php" style="margin-left:5px"> Cari berdasarkan order_id </a>
                 <div class="text-right">
                     <a class="btn btn-info" href="List Status.php" role="button"> Cari </a>
                 </div>
