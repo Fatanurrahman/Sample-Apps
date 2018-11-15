@@ -10,35 +10,35 @@ include ("../Template/Navbar Admin.php"); ?>
                 <h5 style="margin-bottom:-0px" class="text-white" > Hasil Pencarian </h5>
             </div>
             <div class="card-body" style="margin-left:20px">
-                <a class="text-secondary" href="Data Pemesanan.php"> Order_Id_1 </a>
+                <a class="text-secondary" href="Data Pemesanan.php"> JB130418 </a>
                 <hr>
-                <a class="text-secondary" href="Data Pemesanan.php"> Order_Id_2 </a>
+                <a class="text-secondary" href="Data Pemesanan.php"> JB130419 </a>
                 <hr>
-                <a class="text-secondary" href="Data Pemesanan.php"> Order_Id_3 </a>
+                <a class="text-secondary" href="Data Pemesanan.php"> JB130420 </a>
                 <hr>
-                <a class="text-secondary" href="Data Pemesanan.php"> Order_Id_4 </a>
+                <a class="text-secondary" href="Data Pemesanan.php"> JB130421 </a>
                 <hr>
-                <a class="text-secondary" href="Data Pemesanan.php"> Order_Id_5 </a>
+                <a class="text-secondary" href="Data Pemesanan.php"> JB130422 </a>
                 <hr>
-                <a class="text-secondary" href="Data Pemesanan.php"> Order_Id_6 </a>
+                <a class="text-secondary" href="Data Pemesanan.php"> JB130423 </a>
                 <hr>
-                <a class="text-secondary" href="Data Pemesanan.php"> Order_Id_7 </a>
+                <a class="text-secondary" href="Data Pemesanan.php"> JB130424 </a>
                 <hr>
-                <a class="text-secondary" href="Data Pemesanan.php"> Order_Id_8 </a>
+                <a class="text-secondary" href="Data Pemesanan.php"> JB130425 </a>
                 <hr>
-                <a class="text-secondary" href="Data Pemesanan.php"> Order_Id_9 </a>
+                <a class="text-secondary" href="Data Pemesanan.php"> JB130426 </a>
                 <hr>
-                <a class="text-secondary" href="Data Pemesanan.php"> Order_Id_10 </a>
+                <a class="text-secondary" href="Data Pemesanan.php"> JB130427 </a>
                 <hr>
-                <a class="text-secondary" href="Data Pemesanan.php"> Order_Id_11 </a>
+                <a class="text-secondary" href="Data Pemesanan.php"> JB130428 </a>
                 <hr>
-                <a class="text-secondary" href="Data Pemesanan.php"> Order_Id_12 </a>
+                <a class="text-secondary" href="Data Pemesanan.php"> JB130429 </a>
                 <hr>
-                <a class="text-secondary" href="Data Pemesanan.php"> Order_Id_13 </a>
+                <a class="text-secondary" href="Data Pemesanan.php"> JB130430 </a>
                 <hr>
-                <a class="text-secondary" href="Data Pemesanan.php"> Order_Id_14 </a>
+                <a class="text-secondary" href="Data Pemesanan.php"> JB130431 </a>
                 <hr>
-                <a class="text-secondary" href="Data Pemesanan.php"> Order_Id_15 </a>
+                <a class="text-secondary" href="Data Pemesanan.php"> JB130432 </a>
             </div>
         </div>
     </div>
